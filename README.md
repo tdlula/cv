@@ -1,2 +1,2 @@
 # cv
-Theo Dlula Cv
+Theo Dlula Curriculum Vitae
